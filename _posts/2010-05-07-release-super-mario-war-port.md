@@ -10,7 +10,6 @@ date_gmt: '2010-05-07 01:46:00 -0400'
 categories:
 - Article
 tags: []
-
 thumb: generic.png
 ---
 [gallery link="file" ids="336,337"]

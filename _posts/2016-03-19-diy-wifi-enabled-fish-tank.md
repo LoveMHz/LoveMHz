@@ -13,7 +13,6 @@ tags:
   - Java
   - Go
   - Python
-comments: []
 img: diy-wifi-enabled-fish-tank/header.png
 thumb: generic.png
 ---

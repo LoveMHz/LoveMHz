@@ -10,7 +10,6 @@ date_gmt: '2010-03-01 00:43:00 -0500'
 categories:
 - Article
 tags: []
-
 thumb: generic.png
 ---
 First off, sorry for the lack of updates.. Been terrible busy with issues going

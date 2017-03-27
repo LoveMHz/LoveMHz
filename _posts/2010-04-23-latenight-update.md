@@ -11,7 +11,6 @@ categories:
 - Article
 tags:
 - N64
-
 thumb: generic.png
 ---
 [gallery ids="373,374"]

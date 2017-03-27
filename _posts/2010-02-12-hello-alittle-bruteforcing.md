@@ -10,7 +10,6 @@ date_gmt: '2010-02-12 06:25:00 -0500'
 categories:
 - Article
 tags: []
-
 thumb: generic.png
 ---
 Fuck.. I hate writing these. Ok well I've already written one blog introduction

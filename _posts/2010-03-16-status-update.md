@@ -10,7 +10,6 @@ date_gmt: '2010-03-16 22:01:00 -0400'
 categories:
 - Article
 tags: []
-
 thumb: generic.png
 ---
 ### XeBoyAdvance

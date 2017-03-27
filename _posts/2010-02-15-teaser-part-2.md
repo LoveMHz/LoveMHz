@@ -8,7 +8,6 @@ author: Dustin
 categories:
 - Article
 tags: []
-
 thumb: generic.png
 ---
 [gallery ids="461"]

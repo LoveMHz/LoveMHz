@@ -10,7 +10,6 @@ date_gmt: '2016-01-30 02:45:18 -0500'
 categories:
 - Article
 tags: []
-comments: []
 img: reverse-engineering-a-bluetooth-enabled-battery-charger/header.png
 thumb: generic.png
 ---

@@ -11,7 +11,6 @@ categories:
 - Article
 tags:
 - N64
-
 thumb: generic.png
 ---
 Still sorting through all of the issues in RDP, mostly little/big endian

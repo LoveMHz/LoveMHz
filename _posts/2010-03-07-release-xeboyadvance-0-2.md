@@ -10,7 +10,6 @@ date_gmt: '2010-03-07 08:01:00 -0500'
 categories:
 - Article
 tags: []
-
 thumb: generic.png
 ---
 ### Team XeLove Presents

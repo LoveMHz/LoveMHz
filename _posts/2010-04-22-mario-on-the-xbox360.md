@@ -11,7 +11,6 @@ categories:
 - Article
 tags:
 - N64
-
 thumb: generic.png
 ---
 ![mario-on-the-xbox360_1](//lovemhz.com/wp-content/uploads/2015/12/mario-on-the-xbox360_1.jpg)
