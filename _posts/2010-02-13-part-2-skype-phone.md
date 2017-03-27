@@ -3,6 +3,7 @@ layout: post
 status: publish
 published: true
 title: 'Part 2: Skype Phone.'
+permalink: /article/part-2-skype-phone/
 author: Dustin
 date: '2010-02-13 07:01:00 -0500'
 date_gmt: '2010-02-13 07:01:00 -0500'

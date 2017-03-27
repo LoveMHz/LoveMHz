@@ -3,6 +3,7 @@ layout: post
 status: publish
 published: true
 title: "[Release] Super Mario War Port"
+permalink: /article/release-super-mario-war-port/
 author: Dustin
 date: '2010-05-07 01:46:00 -0400'
 date_gmt: '2010-05-07 01:46:00 -0400'

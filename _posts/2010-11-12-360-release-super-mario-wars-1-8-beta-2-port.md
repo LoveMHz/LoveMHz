@@ -3,6 +3,7 @@ layout: post
 status: publish
 published: true
 title: "[Release] Super Mario Wars 1.8 Beta 2 Port"
+permalink: /article/release-super-mario-wars-1-8-beta-2-port/
 author: Dustin
 date: '2010-11-12 05:05:15 -0500'
 date_gmt: '2010-11-12 05:05:15 -0500'

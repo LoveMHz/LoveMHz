@@ -9,7 +9,7 @@ url: "https://lovemhz.com"
 
 # Build settings
 markdown: kramdown
-permalink: /:categories/:title
+permalink: pretty
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 highlighter: rouge

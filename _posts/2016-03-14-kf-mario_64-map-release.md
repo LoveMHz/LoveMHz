@@ -3,6 +3,7 @@ layout: post
 status: publish
 published: true
 title: KF-Mario_64 - Map Release
+permalink: /article/kf-mario_64-map-release/
 author: Dustin
 date: '2016-03-14 07:21:21 -0400'
 date_gmt: '2016-03-14 12:21:21 -0400'

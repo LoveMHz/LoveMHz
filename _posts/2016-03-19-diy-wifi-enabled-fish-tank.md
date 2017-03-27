@@ -3,6 +3,7 @@ layout: post
 status: publish
 published: true
 title: DIY Wifi Enabled Fish Tank
+permalink: /article/diy-wifi-enabled-fish-tank/
 author: Dustin
 date: '2016-03-19 07:32:45 -0400'
 date_gmt: '2016-03-19 12:32:45 -0400'

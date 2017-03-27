@@ -3,6 +3,7 @@ layout: post
 status: publish
 published: true
 title: "[Release] XeBoyAdvance 0.1"
+permalink: /article/release-xeboyadvance-0-1/
 author: Dustin
 date: '2010-03-03 04:46:00 -0500'
 date_gmt: '2010-03-03 04:46:00 -0500'

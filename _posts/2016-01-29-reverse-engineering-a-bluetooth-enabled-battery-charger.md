@@ -3,6 +3,7 @@ layout: post
 status: publish
 published: true
 title: Reverse Engineering a Bluetooth Enabled Battery Charger
+permalink: /article/reverse-engineering-a-bluetooth-enabled-battery-charger/
 author: Dustin
 date: '2016-01-29 21:45:18 -0500'
 date_gmt: '2016-01-30 02:45:18 -0500'

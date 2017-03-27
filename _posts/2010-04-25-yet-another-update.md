@@ -3,6 +3,7 @@ layout: post
 status: publish
 published: true
 title: Yet Another Update
+permalink: /article/yet-another-update/
 author: Dustin
 date: '2010-04-25 03:52:00 -0400'
 date_gmt: '2010-04-25 03:52:00 -0400'

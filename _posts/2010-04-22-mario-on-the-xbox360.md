@@ -3,6 +3,7 @@ layout: post
 status: publish
 published: true
 title: Mario on the Xbox360
+permalink: /article/mario-on-the-xbox360/
 author: Dustin
 date: '2010-04-22 22:33:00 -0400'
 date_gmt: '2010-04-22 22:33:00 -0400'

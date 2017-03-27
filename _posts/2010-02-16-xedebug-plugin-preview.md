@@ -3,6 +3,7 @@ layout: post
 status: publish
 published: true
 title: XeDebug Plugin Preview
+permalink: /article/xedebug-plugin-preview/
 author: Dustin
 date: '2010-02-16 23:05:00 -0500'
 date_gmt: '2010-02-16 23:05:00 -0500'
