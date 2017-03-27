@@ -1,16 +1,22 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: SOLID.
+title: LoveMHz
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://yourdomain.com"
+url: "https://lovemhz.com"
 
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
 
 colors:  #in hex code if not noted else
   primary: "#00b3fe" #"#F70031"
@@ -34,27 +40,15 @@ collections:
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
-    url:
-  - title: facebook
-    url:
   - title: twitter
-    url:
-  - title: instagram
-    url:
-  - title: tumblr
     url:
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
-    - Some Ave, 987,
-    - 23890, New York,
+    - Atlanta, GA
     - United States.
-email: hello@solidtheme.com
-tel: +34 8493-4893
-
-
+email: dustin@devholden.com
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
 
 # Members information. Shown on About page.
