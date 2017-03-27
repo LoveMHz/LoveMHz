@@ -3,12 +3,12 @@ layout: post
 status: publish
 published: true
 title: "[Release] XeDOSBox 0.1 Beta"
-permalink: /article/release-xedosbox-0-1-beta/
+permalink: /blog/release-xedosbox-0-1-beta/
 author: Dustin
 date: '2010-03-21 19:53:00 -0400'
 date_gmt: '2010-03-21 19:53:00 -0400'
 categories:
-- Article
+- Blog
 tags: []
 thumb: generic.png
 ---

@@ -3,10 +3,10 @@ layout: post
 status: publish
 published: true
 title: Check Out Our Affiliates and Help Us
-permalink: /article/check-out-our-affliates-and-help-us/
+permalink: /blog/check-out-our-affliates-and-help-us/
 author: Dustin
 categories:
-- Article
+- Blog
 tags: []
 thumb: generic.png
 ---

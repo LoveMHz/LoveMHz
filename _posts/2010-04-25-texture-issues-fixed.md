@@ -3,12 +3,12 @@ layout: post
 status: publish
 published: true
 title: Texture Issues Fixed
-permalink: /article/texture-issues-fixed/
+permalink: /blog/texture-issues-fixed/
 author: Dustin
 date: '2010-04-25 19:26:00 -0400'
 date_gmt: '2010-04-25 19:26:00 -0400'
 categories:
-- Article
+- Blog
 tags:
 - N64
 thumb: generic.png

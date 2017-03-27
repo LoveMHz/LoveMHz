@@ -3,12 +3,12 @@ layout: post
 status: publish
 published: true
 title: "[Release] XeBoyAdvance 0.4"
-permalink: /article/release-xeboyadvance-0-4/
+permalink: /blog/release-xeboyadvance-0-4/
 author: Dustin
 date: '2010-04-14 00:11:00 -0400'
 date_gmt: '2010-04-14 00:11:00 -0400'
 categories:
-- Article
+- Blog
 tags: []
 thumb: generic.png
 ---

@@ -3,12 +3,12 @@ layout: post
 status: publish
 published: true
 title: Status Update
-permalink: /article/status-update/
+permalink: /blog/status-update/
 author: Dustin
 date: '2010-03-16 22:01:00 -0400'
 date_gmt: '2010-03-16 22:01:00 -0400'
 categories:
-- Article
+- Blog
 tags: []
 thumb: generic.png
 ---

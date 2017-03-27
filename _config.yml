@@ -12,7 +12,7 @@ markdown: kramdown
 permalink: pretty
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 paginate: 5
-paginate_path: "article/page:num"
+paginate_path: "blog/page:num"
 
 highlighter: rouge
 kramdown:

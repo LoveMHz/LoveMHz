@@ -3,12 +3,12 @@ layout: post
 status: publish
 published: true
 title: GTA:IV SCO Script File Decoding
-permalink: /article/gtaiv-sco-script-file-decoding/
+permalink: /blog/gtaiv-sco-script-file-decoding/
 author: Dustin
 date: '2010-03-01 00:43:00 -0500'
 date_gmt: '2010-03-01 00:43:00 -0500'
 categories:
-- Article
+- Blog
 tags: []
 thumb: generic.png
 ---

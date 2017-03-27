@@ -3,12 +3,12 @@ layout: post
 status: publish
 published: true
 title: Hello + Alittle Bruteforcing
-permalink: /article/hello-alittle-bruteforcing/
+permalink: /blog/hello-alittle-bruteforcing/
 author: Dustin
 date: '2010-02-12 06:25:00 -0500'
 date_gmt: '2010-02-12 06:25:00 -0500'
 categories:
-- Article
+- Blog
 tags: []
 thumb: generic.png
 ---

@@ -3,12 +3,12 @@ layout: post
 status: publish
 published: true
 title: DOSBox Progress + DevKit
-permalink: /article/dosbox-progress-devkit/
+permalink: /blog/dosbox-progress-devkit/
 author: Dustin
 date: '2010-03-20 06:52:00 -0400'
 date_gmt: '2010-03-20 06:52:00 -0400'
 categories:
-- Article
+- Blog
 tags: []
 thumb: generic.png
 ---

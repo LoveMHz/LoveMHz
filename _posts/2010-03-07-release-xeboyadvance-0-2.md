@@ -3,12 +3,12 @@ layout: post
 status: publish
 published: true
 title: "[Release] XeBoyAdvance 0.2"
-permalink: /article/diy-wifi-enabled-fish-tank/
+permalink: /blog/diy-wifi-enabled-fish-tank/
 author: Dustin
 date: '2010-03-07 08:01:00 -0500'
 date_gmt: '2010-03-07 08:01:00 -0500'
 categories:
-- Article
+- Blog
 tags: []
 thumb: generic.png
 ---

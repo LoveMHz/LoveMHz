@@ -3,12 +3,12 @@ layout: post
 status: publish
 published: true
 title: Latenight Update
-permalink: /article/latenight-update/
+permalink: /blog/latenight-update/
 author: Dustin
 date: '2010-04-23 06:35:00 -0400'
 date_gmt: '2010-04-23 06:35:00 -0400'
 categories:
-- Article
+- Blog
 tags:
 - N64
 thumb: generic.png

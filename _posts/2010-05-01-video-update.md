@@ -3,12 +3,12 @@ layout: post
 status: publish
 published: true
 title: Video Update
-permalink: /article/video-update/
+permalink: /blog/video-update/
 author: Dustin
 date: '2010-05-01 21:17:00 -0400'
 date_gmt: '2010-05-01 21:17:00 -0400'
 categories:
-- Article
+- Blog
 tags:
 - N64
 thumb: generic.png

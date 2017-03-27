@@ -3,10 +3,10 @@ layout: post
 status: publish
 published: true
 title: Teaser Part 2
-permalink: /article/teaser-part-2/
+permalink: /blog/teaser-part-2/
 author: Dustin
 categories:
-- Article
+- Blog
 tags: []
 thumb: generic.png
 ---

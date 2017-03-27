@@ -3,12 +3,12 @@ layout: post
 status: publish
 published: true
 title: OpenJazz360 Release
-permalink: /article/openjazz360-release/
+permalink: /blog/openjazz360-release/
 author: Dustin
 date: '2010-02-18 01:08:00 -0500'
 date_gmt: '2010-02-18 01:08:00 -0500'
 categories:
-- Article
+- Blog
 tags: []
 thumb: generic.png
 ---
