@@ -10,7 +10,6 @@ date_gmt: '2016-03-14 12:21:21 -0400'
 categories:
 - Article
 tags: []
-comments: []
 img: kf-mario/header.png
 thumb: generic.png
 ---
