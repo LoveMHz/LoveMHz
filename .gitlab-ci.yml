@@ -3,12 +3,7 @@ image: ruby:2.3
 pages:
   stage: deploy
   script:
-  - gem install jekyll jekyll-paginate kramdown jekyll activesupport html-pipeline
-    jekyll-avatar jekyll-default-layout jekyll-feed jekyll-gist jekyll-mentions
-    jekyll-optional-front-matter jekyll-paginate jekyll-readme-index
-    jekyll-redirect-from jekyll-relative-links jekyll-sass-converter
-    jekyll-seo-tag jekyll-sitemap jekyll-swiss jekyll-titles-from-headings
-    jemoji kramdown liquid listen minima nokogiri rouge ruby safe_yaml sass
+  - gem install jekyll jekyll-paginate kramdown jekyll activesupport html-pipeline jekyll-avatar jekyll-default-layout jekyll-feed jekyll-gist jekyll-mentions jekyll-optional-front-matter jekyll-paginate jekyll-readme-index jekyll-redirect-from jekyll-relative-links jekyll-sass-converter jekyll-seo-tag jekyll-sitemap jekyll-swiss jekyll-titles-from-headings jemoji kramdown liquid listen minima nokogiri rouge ruby safe_yaml sass
   - jekyll build -d public
   artifacts:
     paths:
