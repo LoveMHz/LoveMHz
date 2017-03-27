@@ -1,3 +1,0 @@
-[submodule "highlight"]
-	path = assets/css/highlight
-	url = https://github.com/jwarby/jekyll-pygments-themes.git
