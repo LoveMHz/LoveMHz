@@ -11,12 +11,17 @@ url: "https://lovemhz.com"
 markdown: kramdown
 permalink: pretty
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
+paginate: 5
+paginate_path: "article/page:num"
 
 highlighter: rouge
 kramdown:
   input: GFM
   hard_wrap: false
   syntax_highlighter: rouge
+
+# Gems
+gems: [jekyll-paginate]
 
 colors:  #in hex code if not noted else
   primary: "#00b3fe" #"#F70031"
