@@ -13,5 +13,5 @@ tags: []
 thumb: generic.png
 ---
 <div class="embed-container">
-  <iframe src="http://www.youtube.com/embed/B2l4QWCspOw" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/B2l4QWCspOw" frameborder="0" allowfullscreen></iframe>
 </div>
