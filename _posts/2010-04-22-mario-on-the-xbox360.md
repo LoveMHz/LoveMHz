@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 status: publish
 published: true
 title: Mario on the Xbox360

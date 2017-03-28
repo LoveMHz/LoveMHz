@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 status: publish
 published: true
 title: "[Release] Super Mario War Port"

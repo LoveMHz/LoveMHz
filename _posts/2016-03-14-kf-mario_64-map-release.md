@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 status: publish
 published: true
 title: KF-Mario_64 - Map Release

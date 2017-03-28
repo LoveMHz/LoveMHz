@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 status: publish
 published: true
 title: "[Release] Super Mario Wars 1.8 Beta 2 Port"
