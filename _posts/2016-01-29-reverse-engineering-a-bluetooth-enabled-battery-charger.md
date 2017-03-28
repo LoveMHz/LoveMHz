@@ -18,7 +18,7 @@ thumb: generic.png
 Through the never ending stream of _connected_ devices on the market we
 have yet another. Today, I look at and tear into the workings of Efest's latest
 product, the 
-_[Efest LUC BLU6 OLED Intelligent Charger](http://www.efestpower.com/index.php?ac=article&at=read&did=408)._
+_[Efest LUC BLU6 OLED Intelligent Charger](http://www.efestpower.com/index.php?ac=article&at=read&did=409)._
 
 The goal of this project is to identify, reverse engineer, and evaluate the
 safety of this device. Through this process I'll also be writing a simple
