@@ -537,6 +537,12 @@ a.anchor{
     padding: 10px 0 0;
 }
 
+
+.sidebar-resources a,
+.sidebar-companies a {
+    display: block;
+}
+
 .sidebar-resources img,
 .sidebar-companies img {
     margin: 10px 0;
