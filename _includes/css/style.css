@@ -531,3 +531,13 @@ a.anchor{
 .post table {
 		min-width: 100%;
 }
+
+.sidebar-resources,
+.sidebar-companies {
+    padding: 10px 0 0;
+}
+
+.sidebar-resources img,
+.sidebar-companies img {
+    margin: 10px 0;
+}
