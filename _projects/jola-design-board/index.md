@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: portfolio_view
 title:  "Jola Design Board"
 permalink: /portfolio/jola-design-board/
 categories:

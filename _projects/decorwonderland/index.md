@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: portfolio_view
 title:  "DecorWonderland"
 permalink: /portfolio/decorwonderland/
 categories:

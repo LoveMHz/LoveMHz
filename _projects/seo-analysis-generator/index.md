@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: portfolio_view
 title:  "SEO Analysis Generator"
 permalink: /portfolio/seo-analysis-generator/
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: portfolio_view
 title:  "Sugar and Vine"
 permalink: /portfolio/sugar-and-vine/
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: portfolio_view
 title:  "SplashMenu Hardware Design"
 permalink: /projects/splashmenu/hardware-design/
 img: splashmenu-hardware-design/thumbnail.png

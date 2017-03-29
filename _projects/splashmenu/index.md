@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: portfolio_view
 title:  "SplashMenu"
 permalink: /portfolio/splashmenu/
 categories:

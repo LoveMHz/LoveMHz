@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: portfolio_view
 title:  "Popup Domination"
 permalink: /portfolio/popup-domination/
 categories:

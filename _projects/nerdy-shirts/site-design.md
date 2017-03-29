@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: portfolio_view
 title:  "Nerdy Shirts – Site Design"
 permalink: /projects/nerdy-shirts/site-design
 tagged:

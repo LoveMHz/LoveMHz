@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+{% include wrap.html %}
+
+<div class="container mt">
+    <div class="row">
+
+        {% if page.carousel %}
+        {% include carousel.html %}
+        {% endif %}
+
+        <div class="col-lg-8">
+            <div class="spacing"></div>
+
+            {{ content }}
+
+        </div>
+        <div class="col-lg-4">
+            <div class="spacing"></div>
+            <h4>Project Details</h4>
+            <div class="hline"></div>
+            <!-- {% if page.date %}<p><b>Date:</b> {{ page.date | date: "%b %-d, %Y" }}</p>{% endif %} -->
+            {% if page.author %}<p><b>Author:</b> {{ page.author }}</p>{% endif %}
+            {% if page.categories %}<p><b>Categories:</b> {{ page.categories }}</p>{% endif %}
+            {% if page.tagged %}<p><b>Tagged:</b> {{ page.tagged }}</p>{% endif %}
+            {% if page.client %}<p><b>Client:</b> {{ page.client }}</p>{% endif %}
+            {% if page.website %}<p><b>Website:</b> <a href="{{ page.website }}">{{ page.website }}</a></p>{% endif %}
+        </div>
+    </div><! --/row -->
+</div><! --/container -->
+
+{% include project.html title="Related Projects." limit=4 %}

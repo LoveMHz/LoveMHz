@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: portfolio_view
 title:  "Nerdy Shirts"
 permalink: /portfolio/nerdy-shirts/
 categories:
