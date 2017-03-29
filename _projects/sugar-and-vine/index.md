@@ -15,12 +15,13 @@ platform: "Magento"
 role: "Senior Developer"
 ---
 **Description**
+
 The Sugar and Vine website was developed while working as CTO of WorkforceHQ in
 partnership with Jola Interactive in 2011. The joint effort was divided with
 Joal Interactive taking the task of brand strategy and planning, while Workforce
 HQ did design and development.
 
-Site Design
+<!-- Site Design -->
 
 **Challenges**
 * Redesigning the Magento backend with a more simplified interface focused on
