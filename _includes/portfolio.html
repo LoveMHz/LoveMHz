@@ -1,22 +1,35 @@
-<div id="portfoliowrap">
-    <div class="portfolio-centered">
-        {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
-        <div class="recentitems portfolio">
-            {% assign projects = site.projects | where:"categories", "Project" %}
-            {% for project in projects limit:include.limit %}
-                <div class="portfolio-item graphic-design">
-                    <div class="he-wrap tpl6">
-                    <img src="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.img }}" alt="">
-                        <div class="he-view">
-                            <div class="bg a0" data-animate="fadeIn">
-                                <h3 class="a1" data-animate="fadeInDown">{{ project.title }}</h3>
-                                <a data-rel="prettyPhoto" href="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.img }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
-                                <a href="{{  project.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
-                            </div><!-- he bg -->
-                        </div><!-- he view -->
-                    </div><!-- he wrap -->
-                </div><!-- end col-12 -->
-            {% endfor %}
-        </div><!-- portfolio -->
-    </div><!-- portfolio container -->
-</div><!--/Portfoliowrap -->
+<div class="container mtb">
+    {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
+    <div class="row">
+        {% assign projects = site.projects | where:"categories", "Project" %}
+        {% for project in projects limit:include.limit %}
+        <div class="col-lg-3 col-sm-4 col-xs-12">
+            <div class="portfolio-item graphic-design">
+                <div class="he-wrap tpl6 centered">
+                <img src="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.img }}" alt="">
+                    <div class="he-view">
+                        <div class="bg a0" data-animate="fadeIn">
+                            <h3 class="a1" data-animate="fadeInDown">{{ project.title }}</h3>
+                            <a data-rel="prettyPhoto" href="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.img }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
+                            <a href="{{  project.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+<div class="container mtb">
+    <div class="row centered">
+        <div class="col-lg-8 col-lg-offset-2 centered">
+          <strong>ALL OF THE DOCUMENTS FOUND WITHIN THIS PORTFOLIO HAVE BEEN
+          WRITTEN AND DEVELOPED BY EITHER DUSTIN HOLDEN, OR BY HIM WITHIN A
+          GROUP SETTING.</strong><br/>
+          <br />
+          <strong>SOME WORK MAY BE THE PROPERTY OF THE COMPANY WHOSE NAME IS
+          STATED ON THE DOCUMENT. PERMISSION HAS BEEN GRANTED FOR USE WITHIN
+          THIS PROJECT AS A DEMONSTRATION OF MY SKILLS AND TALENT.</strong>
+        </div>
+    </div>
+</div>

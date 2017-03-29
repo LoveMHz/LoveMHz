@@ -555,3 +555,9 @@ a.anchor{
 		background: #00b3fe;
 		color: white;
 }
+
+.portfolio-item.graphic-design {
+    margin: 10px 0px;
+    border: 1px solid #cacaca;
+    box-shadow: rgba(0, 0, 0, 0.34) 1px 3px 4px;
+}
