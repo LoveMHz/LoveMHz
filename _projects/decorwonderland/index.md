@@ -1,9 +1,9 @@
 ---
 layout: project
 title:  "DecorWonderland"
-permalink: /projects/decorwonderland/
+permalink: /portfolio/decorwonderland/
 categories:
-- Project
+- Portfolio
 img: decorwonderland/thumbnail.png
 thumb: generic.png
 carousel:

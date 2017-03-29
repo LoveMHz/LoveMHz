@@ -1,9 +1,9 @@
 ---
 layout: project
 title:  "Nerdy Shirts"
-permalink: /projects/nerdy-shirts/
+permalink: /portfolio/nerdy-shirts/
 categories:
-- Project
+- Portfolio
 img: nerdy-shirts/thumbnail.png
 thumb: generic.png
 carousel:

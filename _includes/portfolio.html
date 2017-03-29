@@ -1,7 +1,7 @@
 <div class="container mtb">
     {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
     <div class="row">
-        {% assign projects = site.projects | where:"categories", "Project" %}
+        {% assign projects = site.projects | where:"categories", "Portfolio" %}
         {% for project in projects limit:include.limit %}
         <div class="col-lg-3 col-sm-4 col-xs-12">
             <div class="portfolio-item graphic-design">

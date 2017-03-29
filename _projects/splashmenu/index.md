@@ -1,9 +1,9 @@
 ---
 layout: project
 title:  "SplashMenu"
-permalink: /projects/splashmenu/
+permalink: /portfolio/splashmenu/
 categories:
-- Project
+- Portfolio
 img: splashmenu/thumbnail.png
 thumb: generic.png
 carousel:

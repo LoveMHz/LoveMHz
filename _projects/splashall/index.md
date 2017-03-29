@@ -1,9 +1,9 @@
 ---
 layout: project
 title:  "SplashAll"
-permalink: /projects/splashall/
+permalink: /portfolio/splashall/
 categories:
-- Project
+- Portfolio
 img: splashall/thumbnail.png
 thumb: generic.png
 carousel:

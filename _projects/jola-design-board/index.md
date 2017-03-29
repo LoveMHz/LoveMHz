@@ -1,9 +1,9 @@
 ---
 layout: project
 title:  "Jola Design Board"
-permalink: /projects/jola-design-board/
+permalink: /portfolio/jola-design-board/
 categories:
-- Project
+- Portfolio
 img: jola-design-board/thumbnail.png
 thumb: generic.png
 tagged:

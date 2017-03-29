@@ -1,9 +1,9 @@
 ---
 layout: project
 title:  "Sugar and Vine"
-permalink: /projects/sugar-and-vine/
+permalink: /portfolio/sugar-and-vine/
 categories:
-- Project
+- Portfolio
 img: sugar-and-vine/thumbnail.png
 thumb: generic.png
 carousel:

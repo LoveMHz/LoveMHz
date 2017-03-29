@@ -1,9 +1,9 @@
 ---
 layout: project
 title:  "Popup Domination"
-permalink: /projects/popup-domination/
+permalink: /portfolio/popup-domination/
 categories:
-- Project
+- Portfolio
 img: popup-domination/thumbnail.png
 thumb: generic.png
 carousel:

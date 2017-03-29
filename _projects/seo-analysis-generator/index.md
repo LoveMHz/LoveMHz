@@ -1,9 +1,9 @@
 ---
 layout: project
 title:  "SEO Analysis Generator"
-permalink: /projects/seo-analysis-generator/
+permalink: /portfolio/seo-analysis-generator/
 categories:
-- Project
+- Portfolio
 img: seo-analysis-generator/thumbnail.png
 thumb: generic.png
 carousel:
