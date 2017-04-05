@@ -4,10 +4,10 @@ title:  "Popup Domination"
 permalink: /portfolio/popup-domination/
 categories:
 - Portfolio
-img: popup-domination/thumbnail.png
+img: pupdom/thumbnail.png
 thumb: generic.png
 carousel:
-- popup-domination/carousel/single01.png
+- pupdom/carousel/single01.png
 tagged:
 client:
 website:
